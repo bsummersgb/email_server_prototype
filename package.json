@@ -1,0 +1,16 @@
+{
+  "name": "email-template-engine",
+  "version": "1.0.0",
+  "description": "A prototype for serving email templates",
+  "main": "app.js",
+  "author": "Bryan Summers",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "nodemon": "^1.17.5"
+  }
+}
